@@ -1,0 +1,3 @@
+<footer>
+     <p> Desenvolvido em 02/09/2025</p>
+</footer>
