@@ -9,8 +9,4 @@ foreach ($alunos as $aluno) {
 
 
 
-
-
-
-
 ?>
