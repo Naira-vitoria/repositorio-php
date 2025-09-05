@@ -50,6 +50,5 @@ echo '<img src="filme.jpg" alt="filme">';
 </div>
 
 <?php
-
 include 'rodape.php';
 ?>
